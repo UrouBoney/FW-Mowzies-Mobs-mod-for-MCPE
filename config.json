@@ -1,0 +1,132 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/o6kEPOEVNc2MCwk5D_d8gF3LCo60_qmV1bxWgO8z3GotTbEK8MEMWOnytOIZIF3IMs-GLkhi7J-CMr7LlWvKaNiAGW9lCsDavZk",
+    "view_skin": "https://lh3.googleusercontent.com/3mLGIsfdqFs3a41QoCUjyawW9qS-R0mWQ0eDyx5yXbzjL2h3m8xy5ECkVFeJ6HUMi8USdiNWrBPzE1c6X4YLbVTBnUwlAinlfxBT"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/X7M1JScSDlqNUrqBvkGeovO1Rg-cKtHoDL1cgdkP_EQtxUzgm5hy4crrFDwqnF7EdB-T1hvFA5LOy2_ukOI_EPQUkdEcl5noE0V1",
+    "view_skin": "https://lh3.googleusercontent.com/SMCRLiOho7HphU-kzXJrx-HM4RoFf85OVW5wtD11OOxewwwG4L6UYHjbnCBs7yJ9qMjluAFPU3LipRCCiOwVZN-ARaAedymeqk0"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/2EID8xaBxZ36Nw_CHcY3xuTLb3IW2x44KMkU-OII5EHVG7t_sjH0QWBCDQZ5dUL_Qv-dod92xi_iwGxhaMuXiw",
+    "view_skin": "https://lh3.googleusercontent.com/4tl7RTuDriJyBQrKUcVBBK77elYYrkABEYHG4DTt7RfdZ1R8hWZSzlRMaY1az-cdA5Qx8m1GYdUEshDOMwyekZ4"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Nk38WPWSsiQi5teSXW_FXXMVB_Jwe0WfWovZTmZlGcrwxbOt7ZPyEvSrLmm1rFwPuzWveohwk52cRaT8x-tu-Q",
+    "view_skin": "https://lh3.googleusercontent.com/YsOYcuhGfq96JbfngUczz6vslCNgwZWzs9zmOLpItGH2N62c1zFxe1j0ILlXC61NP7rS1yJcaZM1sljTd4Hgnsc"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/FpWOtk_eOAUdlbgzS8ApkAjuUdCFk-wqx3IfksU--Rlqu2ipIJQu3Axv--sRIsT9M38Jz3CBBfaCuhYbHzQO5Q",
+    "view_skin": "https://lh3.googleusercontent.com/ltHY1KIQzyuXs5EGO3NBQvuUj0SsCug_jrnwJc5-MjzpcTfvhz_WjnQxeIBuWzRoVvQLp2HcS8o2yjv3l2y6"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/0o7HyD3JqmFVzz4HtMhVN8h-by6Twd6w4ZOL7-cnrnmkN7yY6_31Y6-rMkJYUDHelV03ZkGA4TiggHAsA4WH",
+    "view_skin": "https://lh3.googleusercontent.com/1cRLlxxvJt08Q2tK9gLXJD1_3XDJaWUo-dMgcShz8C-q7EBGjP2km5Vlc3b_0Dx6Cqd6mKZzH-DasA5SOp2yBA"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/OSMUT0Lvc1ECdpIrIxEgyz0DAMZWS0GmnsMYPVhE_0A4bWUuIr9sMxGzINJh7liI49EdhHqyABJvwAxfpi-lqOQ",
+    "view_skin": "https://lh3.googleusercontent.com/vqU311so02a5WarPQixo17szCxqDLBmBcg8TVsR0v28TlbZWcbhtHfmLaDVqoGk5wmPG6cBKpvM7h3kLqDTlnQ"
+  },
+  {
+    "id": 8,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/gfm5tIooIEh89Th3Ckag08FZHoZwdxkynJA5kr9RgHmyAaqMQ9IUrhiTsiug07uuN8_9q7xQC-OM3BISP4J_0A",
+    "view_skin": "https://lh3.googleusercontent.com/HCkqtEl3AlkyM2UsbWH4D5HDfz-EmR-KaC6QKGoNlWrzYEGp163pEG2TTbwhSfaCUR00cn3mQw-_AbhvgzLURQ"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
